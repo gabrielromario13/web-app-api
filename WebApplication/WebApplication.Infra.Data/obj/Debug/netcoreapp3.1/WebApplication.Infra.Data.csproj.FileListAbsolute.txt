@@ -1,0 +1,16 @@
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Infra.Data.deps.json
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Infra.Data.runtimeconfig.json
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Infra.Data.runtimeconfig.dev.json
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Infra.Data.dll
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Infra.Data.pdb
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Domain.dll
+D:\Projects\WebApplication\WebApplication.Infra.Data\bin\Debug\netcoreapp3.1\WebApplication.Domain.pdb
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.csproj.AssemblyReference.cache
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.AssemblyInfoInputs.cache
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.AssemblyInfo.cs
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.csproj.CoreCompileInputs.cache
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.csproj.CopyComplete
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.dll
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.pdb
+D:\Projects\WebApplication\WebApplication.Infra.Data\obj\Debug\netcoreapp3.1\WebApplication.Infra.Data.genruntimeconfig.cache

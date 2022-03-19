@@ -1,0 +1,13 @@
+D:\Projects\WebApplication\WebApplication.Service\bin\Debug\netcoreapp3.1\WebApplication.Service.deps.json
+D:\Projects\WebApplication\WebApplication.Service\bin\Debug\netcoreapp3.1\WebApplication.Service.dll
+D:\Projects\WebApplication\WebApplication.Service\bin\Debug\netcoreapp3.1\WebApplication.Service.pdb
+D:\Projects\WebApplication\WebApplication.Service\bin\Debug\netcoreapp3.1\WebApplication.Domain.dll
+D:\Projects\WebApplication\WebApplication.Service\bin\Debug\netcoreapp3.1\WebApplication.Domain.pdb
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.csproj.AssemblyReference.cache
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.AssemblyInfoInputs.cache
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.AssemblyInfo.cs
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.csproj.CoreCompileInputs.cache
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.csproj.CopyComplete
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.dll
+D:\Projects\WebApplication\WebApplication.Service\obj\Debug\netcoreapp3.1\WebApplication.Service.pdb

@@ -1,0 +1,10 @@
+D:\Projects\WebApplication\WebApplication.Domain\bin\Debug\netcoreapp3.1\WebApplication.Domain.deps.json
+D:\Projects\WebApplication\WebApplication.Domain\bin\Debug\netcoreapp3.1\WebApplication.Domain.dll
+D:\Projects\WebApplication\WebApplication.Domain\bin\Debug\netcoreapp3.1\WebApplication.Domain.pdb
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.csproj.AssemblyReference.cache
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.AssemblyInfoInputs.cache
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.AssemblyInfo.cs
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.dll
+D:\Projects\WebApplication\WebApplication.Domain\obj\Debug\netcoreapp3.1\WebApplication.Domain.pdb
